@@ -1,0 +1,1 @@
+This repository demonstrates a subtle VHDL bug involving the misuse of generics when sizing internal signals within processes.  The bug can lead to race conditions and unexpected behavior during simulation and synthesis.  The `bug.vhdl` file contains the erroneous code, while `bugSolution.vhdl` provides a corrected version.
